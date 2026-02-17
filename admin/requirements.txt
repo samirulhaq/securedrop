@@ -83,7 +83,7 @@ cffi==1.17.1 \
     # via
     #   -r requirements.in
     #   cryptography
-cryptography==45.0.6 \
+cryptography==46.0.5 \
     --hash=sha256:00e8724bdad672d75e6f069b27970883179bd472cd24a63f6e620ca7e41cc0c5 \
     --hash=sha256:048e7ad9e08cf4c0ab07ff7f36cc3115924e22e2266e034450a890d9e312dd74 \
     --hash=sha256:0d9ef57b6768d9fa58e92f4947cea96ade1233c0e236db22ba44748ffedca394 \
